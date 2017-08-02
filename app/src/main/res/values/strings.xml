@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FBLoginSample</string>
+    <string name="app_id">1447707685291133</string>
+    <string name="title_activity_main_fragment">MainFragment</string>
+</resources>
